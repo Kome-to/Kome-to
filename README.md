@@ -62,6 +62,8 @@
 <br><br>
 [<img align="top" alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discordapp.com/users/597325140807909376)
 <br><br>
+ [<img align="top" alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/17279414/rinnn)
+<br><br>
  
 
 
