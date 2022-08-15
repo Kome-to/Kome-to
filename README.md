@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there, I'm Kome-to<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<img src="./Images/fubzila.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="Images/fubuzila.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 ## **Tech Toolbox🧰**<br>
 
