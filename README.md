@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey there, I'm Kome-to<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm Kome-to<img src="Images/Layer 0.png" width="30px"></h1>
 
 <p align="center"><img src="Images/fubuzila.gif" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
