@@ -14,14 +14,14 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" alt="VSCode"/> </a>  
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
- <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=black" alt="html"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=black" alt="css"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=black" alt="expressjs"/> </a>
- <a href="#" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=black" alt="mongodb"/> </a>
- <a href="#" target="_blank"> <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=black" alt="npm"/> </a>
- <a href="#" target="_blank"> <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodejs&logoColor=black" alt="nodejs"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="linux"/> </a>
+ <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/> </a>
+  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/> </a>
+  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/> </a>
+  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/ExpressJS-FF4747?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/> </a>
+ <a href="#" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a>
+ <a href="#" target="_blank"> <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/> </a>
+ <a href="#" target="_blank"> <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/> </a>
  
 ## &#x1f4c8; My GitHub Stats🎯
  
