@@ -14,7 +14,7 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" alt="VSCode"/> </a>  
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="linux"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white" alt="linux"/> </a>
  <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/> </a>
   <a href="#" target="_blank"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/> </a>
   <a href="#" target="_blank"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/> </a>
@@ -47,26 +47,15 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kome-to&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kome-to&theme=chartreuse-dark" />
 </p>  
-
-<a href="https://gitstalk.netlify.app/Kome-to/" target="_blank"> See My Latest Activities Here</a>
   
 
 <img src ="Images/social_dashboard.svg" align = "left" width = 50%>
 <div>
 <h2  > Connect with me</h2>
   
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/avinash-r-2113741b1)
+[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/duc-anh-chu-914241230/)
 <br><br>
-[<img align="top" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/ravinash218)
-<br><br>
-[<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_ravinash/)
-<br><br>
-[<img align="top" alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/11452026/avinash?tab=profile)
-<br><br>
-[<img align="top" alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />](https://dev.to/avinash218)
-<br><br>
-[<img align="top" alt="Medium" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://hashnode.com/@Kome-to)
-<br><br>
+
   
 ## Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/Kome-to/Kome-to/output/github-contribution-grid-snake.svg)
