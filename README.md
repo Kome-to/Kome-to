@@ -37,7 +37,7 @@
 <p align="left">
 <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Kome-to&theme=chartreuse-dark&no-frame=true" /></p>
 </details>
-
+<br><br>
   
 <details><summary>Trophies</summary>
 <p align="left">
@@ -57,14 +57,11 @@
   
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/duc-anh-chu-914241230/)
 <br><br>
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/duc-anh-chu-914241230/)
-
+[<img align="top" alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/chii.chuchu/)
 <br><br>
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/duc-anh-chu-914241230/)
-
+[<img align="top" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/YuukiChu2306)
 <br><br>
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/duc-anh-chu-914241230/)
-
+[<img align="top" alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discordapp.com/users/597325140807909376)
 <br><br>
  
 
