@@ -30,6 +30,7 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Kome-to&label=Profile%20Views&icon=6&pretty=true" />
 </a>
+<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kome-to&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
   
@@ -37,7 +38,6 @@
 <p align="left">
 <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Kome-to&theme=chartreuse-dark&no-frame=true" /></p>
 </details>
-<br><br>
 <details><summary>Trophies</summary>
 <p align="left">
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=Kome-to&column=7&theme=gruvbox&no-frame=true"/>
