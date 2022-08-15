@@ -19,6 +19,9 @@
   <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/HTML-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="html"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/CSS-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="css"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/ExpressJS-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="expressjs"/> </a>
+ <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="mongodb"/> </a>
+ <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/NPM-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="npm"/> </a>
+ <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/NodeJS-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="nodejs"/> </a>
  
 ## &#x1f4c8; My GitHub Stats🎯
  
