@@ -27,7 +27,9 @@
  
 <h3 align="left">Profile Views: 🧐</h3>
   
-![Profile views](https://gpvc.arturio.dev/Kome-to)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Kome-to&label=Profile%20Views&icon=6&pretty=true" />
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kome-to&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
   
@@ -81,6 +83,4 @@
 
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Kome-to&label=Profile%20Views&icon=6&pretty=true" />
-</a>
+
