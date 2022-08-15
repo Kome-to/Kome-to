@@ -66,10 +66,8 @@
 <br><br>
  [<img align="top" alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/17279414/rinnn)
 <br><br>
+<br><br>
  
-
-
-
   
 ## Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/Kome-to/Kome-to/output/github-contribution-grid-snake.svg)
