@@ -38,7 +38,6 @@
 <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Kome-to&theme=chartreuse-dark&no-frame=true" /></p>
 </details>
 <br><br>
-  
 <details><summary>Trophies</summary>
 <p align="left">
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=Kome-to&column=7&theme=gruvbox&no-frame=true"/>
@@ -64,6 +63,8 @@
 [<img align="top" alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discordapp.com/users/597325140807909376)
 <br><br>
  
+
+
 
   
 ## Just a Snake 🐍 Eating away my Contributions...😭
