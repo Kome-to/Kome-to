@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Kome-to&label=Profile%20Views&icon=6&pretty=true" />
+</a>
 <!--
 **Kome-to/Kome-to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
