@@ -78,7 +78,7 @@
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
 <p align='center'>
-<img src="https://i.pinimg.com/originals/12/99/9e/12999e9ddf2a3b878e9350eca01f816b.gif"  height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="Images/yuii.webp"  height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
 
 
