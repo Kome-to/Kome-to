@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there, I'm Kome-to <img src="Images/Layer 0.png" width="30px"></h1>
 
-<p align="center"><img src="Images/fubuzila.gif" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<p align="center"><img src="Images/fubuzila.webp" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 ## **Tech Toolbox🧰**<br>
 
