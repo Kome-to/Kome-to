@@ -11,19 +11,18 @@
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
-<a href="https://isocpp.org/std/the-standard" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> </a>
+<a href="https://isocpp.org/std/the-standard" target="_blank"> <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" alt="C++"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
-<a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white" alt="linux"/> </a>
- <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/ExpressJS-FF4747?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/> </a>
- <a href="#" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a>
- <a href="#" target="_blank"> <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/> </a>
- <a href="#" target="_blank"> <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/> </a>
- <a href="#" target="_blank"> <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=mySQL&logoColor=white" alt="nodejs"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="linux"/> </a>
+ <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white" alt="javascript"/> </a>
+  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html"/> </a>
+  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="css"/> </a>
+  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="expressjs"/> </a>
+ <a href="#" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="mongodb"/> </a>
+ <a href="#" target="_blank"> <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/> </a>
+ <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> </a>
+ <a href="#" target="_blank"> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql"/> </a>
  
 ## &#x1f4c8; My GitHub Stats🎯
  
