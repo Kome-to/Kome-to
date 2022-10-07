@@ -23,6 +23,7 @@
  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a>
  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/> </a>
  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/> </a>
+ <a href="#" target="_blank"> <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=mySQL&logoColor=white" alt="nodejs"/> </a>
  
 ## &#x1f4c8; My GitHub Stats🎯
  
